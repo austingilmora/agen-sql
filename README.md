@@ -6,8 +6,6 @@
   
   ## Table of Contents
 
-
-  
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -19,6 +17,8 @@
 ## Usage
   To use this app, all you need to do is go into the file with Git Bash and run 'node index' to start the program, then you can answer the prompts to add data to your database
 
+    To see how to use my app you can see me using it in this video:
+    https://watch.screencastify.com/v/GpvRaRuatsextIJgFZpG 
     
   
 ## Contributing
